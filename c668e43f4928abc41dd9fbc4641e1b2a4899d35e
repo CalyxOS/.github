@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6cfd9c9e_cb6d00a6",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2022-11-22T18:27:25Z",
+      "side": 1,
+      "message": "Application has been approved, pending setup (Stripe Connect)",
+      "revId": "c668e43f4928abc41dd9fbc4641e1b2a4899d35e",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
